@@ -24,7 +24,8 @@ A persistent AI identity with memory, personality, and self-evolution.
 | **Zero cost** | Uses your local Ollama model, no API keys |
 | **Autonomous** | Runs background tasks, daily reports |
 
-📖 [View Project](https://github.com/qq2667117339/yue-ai-products) · [Monetization & Premium](https://github.com/qq2667117339/yue-ai-products/blob/main/docs/MONETIZATION.md)
+📖 [View Project](https://github.com/qq2667117339/yue-ai-products) · [Monetization & Premium](https://github.com/qq2667117339/yue-ai-products/blob/main/docs/MONETIZATION.md)  
+🌐 **Try the dashboard**: `yue-server` → http://127.0.0.1:18792
 
 ---
 
@@ -43,7 +44,8 @@ From text idea → finished video in **7 minutes**.
 | Polish | MuseTalk / FFmpeg | Lip sync + Ken Burns + subtitles |
 
 🎯 **Competitive moat**: Only working pipeline from text → full short drama with lip sync.  
-💼 **Revenue model**: Cloud API ($4.99-49.99/video) · Self-hosted license ($499-9,999) · White-label
+💼 **Revenue model**: Cloud API ($4.99-49.99/video) · Self-hosted license ($499-9,999) · White-label  
+🚀 **Seeking**: $50K seed for cloud GPU + SaaS platform
 
 📖 [View Project](https://github.com/qq2667117339/tiandao-ai-studio) · [Business Model](https://github.com/qq2667117339/tiandao-ai-studio/blob/main/docs/MONETIZATION.md)
 
